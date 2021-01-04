@@ -1,7 +1,7 @@
 ---
 title: "Document Representations Using Fine-Grained Topics"
 collection: publications
-permalink: /publication/sets_and_parts19
+permalink: /publications/sets_and_parts19
 excerpt: 
 date: 2019-12-14
 venue: 'Sets & Partitions Workshop at NeurIPS 2019'
