@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course, Teaching assistant"
 permalink: /teaching/Intro_to_AI.md
 venue: "University of Massachusetts, College of Information and Computer Sciences"
-date: 
+date: 2018-08-01 
 location: "Amherst, United States"
 ---
 
