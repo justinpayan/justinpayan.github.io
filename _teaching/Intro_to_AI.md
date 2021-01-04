@@ -3,7 +3,7 @@ title: "CMPSCI 383: Introduction to Artificial Intelligence (Fall 2018)"
 collection: teaching
 type: "Undergraduate course, Teaching assistant"
 permalink:
-venue: 
+venue: UMass Amherst 
 date: 2018-08-01 
 location: "Amherst, United States"
 ---

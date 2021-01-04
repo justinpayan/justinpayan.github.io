@@ -3,7 +3,7 @@ title: "CMPSCI 590N: Introduction to Numerical Computing with Python (Fall 2020)
 collection: teaching
 type: "Graduate course, Instructor"
 permalink: 
-venue: 
+venue: UMass Amherst 
 date: 2020-09-01 
 location: "Amherst, United States"
 ---
