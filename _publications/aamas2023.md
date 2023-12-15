@@ -13,5 +13,5 @@ With Rik Sengupta and Vignesh Viswanathan.
 
 Links:
 <a href='https://dl.acm.org/doi/abs/10.5555/3545946.3599032'>AAMAS paper</a>,
-<a href='https://arxiv.org/abs/2202.10946'>arxiv paper</a>,
+<a href='https://arxiv.org/abs/2202.10946'>arxiv</a>,
 <a href='https://justinpayan.github.io/files/FOCS_Poster_EFX_and_Hidden.pdf'>poster</a>
