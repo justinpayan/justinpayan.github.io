@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Justin Payan"
 title_separator          : "-"
 name                     : &name "Justin Payan"
-description              : &description "PhD Student at UMass Amherst"
+description              : &description "PhD Candidate at UMass Amherst"
 url                      : https://justinpayan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "justinpayan/justinpayan.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Justin Payan"
   avatar           : "jp_profile.png"
-  bio              : "Algorithmic Fairness and Computational Social Choice\nPhD Student at UMass Amherst"
+  bio              : "Data Science/Market Design for Social Good\nPhD Candidate at UMass Amherst"
   location         : "Amherst, MA"
   employer         : 
   pubmed           : 
