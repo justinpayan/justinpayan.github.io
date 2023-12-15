@@ -16,4 +16,4 @@ Links:
 <a href='https://aclanthology.org/2023.findings-emnlp.265/'>EMNLP proceedings</a>,
 <a href='https://arxiv.org/abs/2310.14495'>arxiv</a>,
 <a href='https://github.com/microsoft/InstructExcel'>Github</a>,
-<a href='https://justinpayan.github.io/files/InstructExcel.pdf'>poster</a>,
+<a href='https://justinpayan.github.io/files/InstructExcel.pdf'>poster</a>

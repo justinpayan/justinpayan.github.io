@@ -5,7 +5,13 @@ permalink: /publications/ijcai2022
 excerpt: 
 date: 2022-05-07
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI)'
-paperurl: 'https://arxiv.org/abs/2108.02126'
-citation: 'Justin Payan and Yair Zick. I Will Have Order! Optimizing Orders for Fair Reviewer Assignment.
-In International Joint Conference on Artificial Intelligence (IJCAI), 2022.'
+paperurl:
+citation: 
 ---
+
+With Yair Zick.
+
+Links:
+
+<a href='https://www.ijcai.org/proceedings/2022/0063.pdf'>IJCAI proceedings</a>,
+<a href='https://arxiv.org/abs/2108.02126'>arxiv</a>
