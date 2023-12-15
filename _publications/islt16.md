@@ -1,7 +1,7 @@
 ---
 title: "Artificial Neural Network Based Water Network State Estimation Tool for Bangalore Inflow System"
 collection: publications
-permalink: /publications/islt16.md
+permalink: /publications/islt16
 excerpt: 
 date: 2016-01-01
 venue: 'International Symposium on Lowland Technology'
