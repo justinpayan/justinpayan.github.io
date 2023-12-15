@@ -13,4 +13,4 @@ With Nicholas Monath and Andrew McCallum.
 
 Links:
 
-<a href='https://drive.google.com/file/d/1b0iVSW17XeBopTrODt9xEQ1oVq5kRL2A/view'>Sets and Partitions Workshop link</a>
+<a href='https://justinpayan.github.io/files/document_representations_using_fine_grained_topics.pdf'>Download paper</a>
