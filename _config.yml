@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : JustinPayan2
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,6 +81,7 @@ author:
   name             : "Justin Payan"
   avatar           : "jp_profile.png"
   bio              : "Data Science/Market Design for Social Good\nPhD Candidate at UMass Amherst"
+  bluesky          : "justinspayan"
   location         : "Amherst, MA"
   employer         : 
   pubmed           : 
@@ -94,7 +95,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "justinpayan"
+  semantic         : "https://www.semanticscholar.org/author/Justin-Payan/80896832"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JustinPayan2" 
+  twitter          : 
   vine             :
   weibo            :
   xing             :
