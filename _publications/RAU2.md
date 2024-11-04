@@ -4,12 +4,12 @@ collection: publications
 permalink: /publications/rau2
 excerpt: 
 date: 2024-07-03
-venue: 'Unpublished'
+venue: 'Neural Information Processing Systems'
 paperurl:
 citation:
 ---
 
-With Cyrus Cousins, Elita Lobo, and Yair Zick.
+With Elita Lobo, Cyrus Cousins, and Yair Zick.
 
 Links:
 
