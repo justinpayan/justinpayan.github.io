@@ -79,14 +79,14 @@ analytics:
 # Site Author
 author:
   name             : "Justin Payan"
-  avatar           : "jp_profile.png"
-  bio              : "Data Science/Market Design for Social Good\nPhD Candidate at UMass Amherst"
+  avatar           : "jp_profile.jpg"
+  bio              : "Postdoc at CMU"
   bluesky          : "justinspayan.bsky.social"
-  location         : "Amherst, MA"
+  location         : "Pittsburgh, PA"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gc9w_eYAAAAJ&hl=en"
-  email            : "jpayan@cs.umass.edu"
+  email            : "jpayan@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
