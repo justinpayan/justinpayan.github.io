@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-With Nicholas Monath and Andrew McCallum.
+Justin Payan, Nicholas Monath, and Andrew McCallum.
 
 Links:
 

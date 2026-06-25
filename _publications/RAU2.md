@@ -9,7 +9,7 @@ paperurl:
 citation:
 ---
 
-With Elita Lobo, Cyrus Cousins, and Yair Zick.
+Elita Lobo, Justin Payan, Cyrus Cousins, and Yair Zick.
 
 Links:
 

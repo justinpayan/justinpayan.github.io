@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-With Yair Zick.
+Justin Payan and Yair Zick.
 
 Links:
 

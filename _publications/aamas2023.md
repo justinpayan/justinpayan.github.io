@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-With Rik Sengupta and Vignesh Viswanathan.
+Justin Payan, Rik Sengupta, and Vignesh Viswanathan.
 
 Links:
 

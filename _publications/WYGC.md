@@ -9,7 +9,7 @@ paperurl:
 citation:
 ---
 
-With Cyrus Cousins, Sheshera Mysore, Neha Nayak Kennard, and Yair Zick.
+Justin Payan, Cyrus Cousins, Sheshera Mysore, Neha Nayak Kennard, and Yair Zick.
 
 Links:
 

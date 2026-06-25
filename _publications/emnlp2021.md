@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-With Yuval Merhav, He Xie, Satyapriya Krishna, Anil Ramakrishna, Mukund Sridhar and Rahul Gupta.
+Justin Payan, Yuval Merhav, He Xie, Satyapriya Krishna, Anil Ramakrishna, Mukund Sridhar and Rahul Gupta.
 
 Links:
 
