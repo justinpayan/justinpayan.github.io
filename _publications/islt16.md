@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-Justin Payan, Anjana G. Rajakumar, K.R. Sheetal Kumar, and M.S. Mohan Kumar.
+Anjana G. Rajakumar, K.R. Sheetal Kumar, Justin Payan, and M.S. Mohan Kumar.
 
 Links:
 
