@@ -14,3 +14,4 @@ Justin Payan, Noemi Barbagli, Ignacio Toledo, Rodrigo A. Carrasco, Sergio Martí
 Links:
 
 <a href='https://spie.org/astronomical-telescopes-instrumentation/presentation/Uncertainty-aware-ground-based-telescope-observation-scheduling-at-ALMA/14151-120'>SPIE Abstract</a>,
+<a href='https://justinpayan.github.io/files/SPIE2026.pdf'>Manuscript</a>
