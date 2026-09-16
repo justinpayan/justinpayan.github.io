@@ -8,4 +8,3 @@ date: 2021-09-01
 location: "Amherst, United States"
 ---
 
-Please visit people.cs.umass.edu/~jpayan/cics580.html for the course page.
