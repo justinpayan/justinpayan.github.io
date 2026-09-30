@@ -15,4 +15,4 @@ Links:
 
 [ArXiv](https://arxiv.org/abs/2609.20481),
 [Code](https://github.com/justinpayan/greCAPTCHA),
-[Public Demo](www.grecaptcha.com)
+[Public Demo](https://www.grecaptcha.com)
