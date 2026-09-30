@@ -9,10 +9,10 @@ paperurl:
 citation: 
 ---
 
-Justin Payan*, Bálint Gyevnár*, Atoosa Kasirzadeh, and Nihar B. Shah.
+Justin Payan (equal contribution), Bálint Gyevnár (equal contribution), Atoosa Kasirzadeh, and Nihar B. Shah.
 
 Links:
 
-<a href='https://arxiv.org/abs/2609.20481'>ArXiv</a>,
-<a href='https://github.com/justinpayan/greCAPTCHA'>Code<\a>,
-<a href='www.grecaptcha.com'>Public Demo<\a>
+[ArXiv](https://arxiv.org/abs/2609.20481),
+[Code](https://github.com/justinpayan/greCAPTCHA),
+[Public Demo](www.grecaptcha.com)

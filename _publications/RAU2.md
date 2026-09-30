@@ -9,13 +9,8 @@ paperurl:
 citation:
 ---
 
-Elita Lobo, Justin Payan, Cyrus Cousins, and Yair Zick.
+Elita Lobo (equal contribution), Justin Payan (equal contribution), Cyrus Cousins, and Yair Zick.
 
 Links:
 
-<a href='https://justinpayan.github.io/files/RAU2.pdf'>Paper PDF</a>,
-
-
-
-
-
+[Paper PDF](https://justinpayan.github.io/files/RAU2.pdf),
