@@ -5,7 +5,7 @@ collection: publications
 permalink: /publications/flaws
 excerpt: 
 date: 2025-11-06
-venue: 'Under Submission'
+venue: 'Journal of Data-centric Machine Learning Research (DMLR) - Forthcoming'
 paperurl:
 citation: 
 ---
