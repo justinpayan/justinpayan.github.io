@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Postdoctoral Research Associate at Carnegie Mellon University. I work in the lab of Prof. [Nihar Shah](https://www.cs.cmu.edu/~nihars/).
 
+**I am on the academic job market for assistant professor positions starting Fall 2027.**
+
 **About my research**
 
 AI advances bring massive increases in scientific output. But how do we ensure that the drastic increase in scientific output couples with an increase in true understanding and progress? To address these questions, I apply tools from a wide variety of areas – including machine learning, combinatorial optimization, and the social sciences – to ensure AI applications in science lead to real productivity. 
